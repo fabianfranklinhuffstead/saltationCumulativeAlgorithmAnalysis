@@ -1,6 +1,6 @@
 # SaltationCumulativeAlgorithmAnalysis
 
-<p>A C solution for Data-structures and Algorithms with various stages of saltation and cumulative analysis </p>
+<p>A C solution for Data Structures and Algorithms with various stages of saltation and cumulative analysis</p>
 
 <h2>The task: </h2>
 <ul>
