@@ -4,6 +4,7 @@
 
 <h2>The task: </h2>
 <ul>
-  <li>Random genetic generation using saltation and cumulative algorithms</li>
+  <li>Random genetic generation using saltation or cumulative algorithms</li>
   <li>Analysis and various stages of heuristic evaluation</li>
+  <li>Original includes documentation explaining each behaviour, auto-runs self explanatory</li>
 </ul>
