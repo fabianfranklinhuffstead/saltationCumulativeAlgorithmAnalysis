@@ -1,6 +1,6 @@
 # SaltationCumulativeAlgorithmAnalysis
 
-<p>A pure C solution for Data Structures and Algorithms with various stages of saltation and cumulative analysis</p>
+<p>A pure C solution for Data Structures and Algorithms with various stages of saltation and cumulative analysis written documentation of heuristic evulations and big O notation not included. Results for each are locate in the bin<a href="https://github.com/fabianfranklinhuffstead/saltationCumulativeAlgorithmAnalysis/tree/master/bin">here</a></p>
 
 <h2>The task: </h2>
 <ul>
