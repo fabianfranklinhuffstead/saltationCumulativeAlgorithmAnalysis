@@ -6,5 +6,5 @@
 <ul>
   <li>Random genetic generation using <a href="https://en.oxforddictionaries.com/definition/saltation">saltation</a> or <a href="https://en.oxforddictionaries.com/definition/cumulative">cumulative</a> algorithms</li>
   <li>Analysis and various stages of heuristic evaluation</li>
-  <li>Original includes documentation explaining each behaviour, auto-runs self explanatory</li>
+  <li>Original includes documentation explaining each behaviour, <a href="https://github.com/fabianfranklinhuffstead/saltationCumulativeAlgorithmAnalysis/blob/master/autoRun.c">auto-runs</a> self explanatory</li>
 </ul>
