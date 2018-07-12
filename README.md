@@ -8,3 +8,5 @@
   <li>Analysis and various stages of heuristic evaluation</li>
   <li>Original includes documentation explaining each behaviour, <a href="https://github.com/fabianfranklinhuffstead/saltationCumulativeAlgorithmAnalysis/blob/master/autoRun.c">auto-runs</a> self explanatory</li>
 </ul>
+
+<p>Please contact for fixes, changes further instructions</p>
