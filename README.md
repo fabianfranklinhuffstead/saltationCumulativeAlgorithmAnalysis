@@ -3,6 +3,7 @@
 <img src="media/summary.png" width="50%" height="50%"/>
 <i><b>Media package <a href="/media"></b>here</a></i>
 <br>
+<br>
 <p>A pure C solution for Data Structures and Algorithms with various stages of stochastic saltation and cumulative analysis written documentation of heuristic evaluations and Big O notation not included. Results for each are locate in the bin <a href="https://github.com/fabianfranklinhuffstead/saltationCumulativeAlgorithmAnalysis/tree/master/bin">here.</a> Alternatively run locally to gather your own results to measure algorithm features.</p>
 
 <h2>The task: </h2>
