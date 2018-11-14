@@ -1,7 +1,7 @@
 # SaltationCumulativeAlgorithmAnalysis
 
 <img src="media/summary.png" width="50%" height="50%"/>
-<i>Media package <a href="/media">here</a><i>
+<i>Media package <a href="/media">here</a></i>
 
 <p>A pure C solution for Data Structures and Algorithms with various stages of stochastic saltation and cumulative analysis written documentation of heuristic evaluations and Big O notation not included. Results for each are locate in the bin <a href="https://github.com/fabianfranklinhuffstead/saltationCumulativeAlgorithmAnalysis/tree/master/bin">here.</a> Alternatively run locally to gather your own results to measure algorithm features.</p>
 
